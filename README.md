@@ -33,11 +33,11 @@ AI Prompts for generating grammar-deep Anki cards. Supports Russian (and easily 
 以下是使用本 Prompt 生成的 Anki Flashcard 效果图。
 
 ### 名词示例
-![Anki Flashcard 示例-名词](images/Anki_demo_noun.png)
+![Anki Flashcard 示例-名词](Anki_demo_noun.png)
 
 ### 动词示例
-![Anki Flashcard 示例-动词](images/Anki_demo_verb.png)
+![Anki Flashcard 示例-动词](Anki_demo_verb.png)
 
 ### 形容词示例
-![Anki Flashcard 示例-形容词](images/Anki_demo_adj.png)
+![Anki Flashcard 示例-形容词](Anki_demo_adj.png)
 ```markdown
